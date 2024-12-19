@@ -14,3 +14,10 @@ An example usage script is provided in the file main.py. This script demonstrate
 Below are visualizations of a dataset before and after applying the Geospatial Proximity Filter. The before image shows the original dataset with multiple nearby points, while the after image shows the dataset with closely located points removed:
 
 ![](/Example/Threshold2.png)
+
+
+## Used versions
+
+python == 3.8.13
+numpy == 1.22.4
+pandas == 1.5.2
